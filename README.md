@@ -12,3 +12,6 @@ Even if I will not be easy because :
 I apologize in advance, but I do not remember exactly but I had few months to do all this work during my spare time, my first goal was to make a good study for my school, not a suitable collaborative work.
 
 Nicolas
+
+
+<img src="https://raw.githubusercontent.com/wh6b/study-neo4j-vs-orientdb/master/presentation/Fin.svg">
