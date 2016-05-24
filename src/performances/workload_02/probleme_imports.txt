@@ -1,0 +1,84 @@
+Voie 610/619 de la commune 8 / 37
+WARNING;1;  La voie <RUE HONORE DE BALZAC> de la commune <BALMA> n'existe pas.
+
+Voie 90/97 de la commune 12 / 37
+WARNING;1;  La voie <CHE DES TOURNESOLS> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;2;  La voie <ALL DES MOISSONS> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;3;  La voie <IMP DE LA FONTAINE BIERNEZE> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;4;  La voie <LOT LA CLE DES CHAMPS> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;5;  La voie <CHE DES ECOLIERS> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;6;  La voie <CHE DES ROSEAUX> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;7;  La voie <CHE DU PASTEL> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;8;  La voie <CHE D ARBANERE> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;9;  La voie <CHE DE FONTVILLANE> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;10;  La voie <PL DE LA MAIRIE> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;11;  La voie <IMP DE GRANDE BORDE> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;12;  La voie <CHE DE LAFAGE> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;13;  La voie <ALL DU MONT VALLIER> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;14;  La voie <CHE DU BARIC> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;15;  La voie <CHE DE QUINT> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;16;  La voie <CHE DES BLES> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;17;  La voie <LOT LE CLOS DES ANDAINS> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;18;  La voie <CHE DE LA PASTOURELLE> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;19;  La voie <ALL DES VENDANGES> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;20;  La voie <VA VA000004> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;21;  La voie <CHE D ISATIS> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;22;  La voie <CHE DE L AUTAN> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;23;  La voie <ALL DES PYRENEES> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;24;  La voie <IMP DES FRESNES> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;25;  La voie <CHE DE FRESCATI> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;26;  La voie <AV DE LA SAUNE> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;27;  La voie <CHE DE BELLEVUE> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;28;  La voie <CHE DES TERREFORTS> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;29;  La voie <CHE DE GRAILLE> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;30;  La voie <CHE DU PETIT BOIS> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;31;  La voie <CHE DE ROQUETTE> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;32;  La voie <PL DE LA FONTAINE> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;33;  La voie <IMP DES CHENES> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;34;  La voie <ALL DES FENAISONS> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;35;  La voie <CHE DES ANDAINS> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;36;  La voie <RTE DE LA SAUNE> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;37;  La voie <RTE D94> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;38;  La voie <CHE DE LAUZERVILLE> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+WARNING;39;  La voie <LOT L OREE DU BOIS> de la commune <AIGREFEUILLE> n'existe pas.
+need more than 0 values to unpack
+Voie 10/109 de la commune 14 / 37
+Voie 20/109 de la commune 14 / 37

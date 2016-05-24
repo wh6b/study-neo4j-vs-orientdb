@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="35cm" height="15cm" viewBox="91 258 688 296" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <ellipse style="fill: #f1ea92" cx="447.999" cy="293.097" rx="33.7211" ry="33.7211"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="447.999" cy="293.097" rx="33.7211" ry="33.7211"/>
+    <text font-size="14.6756" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="447.999" y="297.683">
+      <tspan x="447.999" y="297.683">Arbuz</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #f1ea92" cx="137.885" cy="313.371" rx="33.7211" ry="33.7211"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="137.885" cy="313.371" rx="33.7211" ry="33.7211"/>
+    <text font-size="14.6756" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="137.885" y="317.957">
+      <tspan x="137.885" y="317.957">Boing</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 403.708,289.388 A 899.94,899.94 0 0 0 171.765,305.812"/>
+    <polygon style="fill: #000000" points="411.193,289.857 400.869,294.149 403.711,289.335 401.565,284.173 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="411.193,289.857 400.869,294.149 403.711,289.335 401.565,284.173 "/>
+  </g>
+  <g>
+    <rect style="fill: #fafafa" x="226.45" y="282.953" width="109" height="76.5556"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x="226.45" y="282.953" width="109" height="76.5556"/>
+    <text font-size="14.1111" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="227.45" y="299.053">
+      <tspan x="227.45" y="299.053">@0016</tspan>
+      <tspan x="227.45" y="316.691">label:espionne</tspan>
+      <tspan x="227.45" y="334.33">out:@0012</tspan>
+      <tspan x="227.45" y="351.969">in:@0013</tspan>
+    </text>
+  </g>
+  <text font-size="14.6756" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="225.9" y="275.3">
+    <tspan x="225.9" y="275.3">ESPIONNE</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="92.2856" y="332.998" width="91.2" height="78.3861"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x="92.2856" y="332.998" width="91.2" height="78.3861"/>
+    <text font-size="14.1111" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="93.2856" y="350.013">
+      <tspan x="93.2856" y="350.013">@0012</tspan>
+      <tspan x="93.2856" y="367.652">nom : Boing</tspan>
+      <tspan x="93.2856" y="385.291">[..]</tspan>
+      <tspan x="93.2856" y="402.93">out:@0016</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="375.301" y="305.012" width="143.4" height="76.5556"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x="375.301" y="305.012" width="143.4" height="76.5556"/>
+    <text font-size="14.1111" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="376.301" y="321.112">
+      <tspan x="376.301" y="321.112">@0013</tspan>
+      <tspan x="376.301" y="338.751">nom : Arbuz</tspan>
+      <tspan x="376.301" y="356.39">[..]</tspan>
+      <tspan x="376.301" y="374.029">in:(@0016, @0320)</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ff0000" cx="701.09" cy="413.728" rx="35.3639" ry="35.3639"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="701.09" cy="413.728" rx="35.3639" ry="35.3639"/>
+    <text font-size="15.8044" style="fill: #f1ea92;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="701.09" y="408.789">
+      <tspan x="701.09" y="408.789">Comme</tspan>
+      <tspan x="701.09" y="428.545">AC</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="628.65" y="438.924" width="149.2" height="76.5556"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x="628.65" y="438.924" width="149.2" height="76.5556"/>
+    <text font-size="14.1111" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="629.65" y="455.024">
+      <tspan x="629.65" y="455.024">@0919</tspan>
+      <tspan x="629.65" y="472.663">nom : CommeAC</tspan>
+      <tspan x="629.65" y="490.302">localisation : Est</tspan>
+      <tspan x="629.65" y="507.941">out:(@0900,@0320)</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #003dc0" cx="275.347" cy="487.621" rx="33.7211" ry="33.7211"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="275.347" cy="487.621" rx="33.7211" ry="33.7211"/>
+    <text font-size="14.6756" style="fill: #ffffff;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="275.347" y="483.035">
+      <tspan x="275.347" y="483.035">Roule</tspan>
+      <tspan x="275.347" y="501.379">Rousse</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="239.9" y="511.174" width="73.5" height="41.2778"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x="239.9" y="511.174" width="73.5" height="41.2778"/>
+    <text font-size="14.1111" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="240.9" y="527.274">
+      <tspan x="240.9" y="527.274">@0015</tspan>
+      <tspan x="240.9" y="544.913">in:@0900</tspan>
+    </text>
+  </g>
+  <text font-size="14.6756" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="404.575" y="449.081">
+    <tspan x="404.575" y="449.081">ESPIONNE</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="530" y="262">
+    <tspan x="530" y="262"></tspan>
+  </text>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 664.726 413.728 C 580.7,413.728 654.721,294.182 492.456,293.33"/>
+    <polygon style="fill: #000000" points="484.956,293.291 494.982,288.344 492.456,293.33 494.929,298.344 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="484.956,293.291 494.982,288.344 492.456,293.33 494.929,298.344 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 664.734 413.728 C 523.387,413.728 451.415,487.621 319.804,487.621"/>
+    <polygon style="fill: #000000" points="312.304,487.621 322.304,482.621 319.804,487.621 322.304,492.621 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="312.304,487.621 322.304,482.621 319.804,487.621 322.304,492.621 "/>
+  </g>
+  <g>
+    <rect style="fill: #fafafa" x="404.575" y="458.081" width="109" height="76.5556"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x="404.575" y="458.081" width="109" height="76.5556"/>
+    <text font-size="14.1111" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="405.575" y="474.181">
+      <tspan x="405.575" y="474.181">@0900</tspan>
+      <tspan x="405.575" y="491.819">label:espionne</tspan>
+      <tspan x="405.575" y="509.458">out:@0919</tspan>
+      <tspan x="405.575" y="527.097">in:@0015</tspan>
+    </text>
+  </g>
+  <text font-size="14.6756" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="571.575" y="276.081">
+    <tspan x="571.575" y="276.081">ESPIONNE</tspan>
+  </text>
+  <g>
+    <rect style="fill: #fafafa" x="571.575" y="285.081" width="116.45" height="76.5556"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x="571.575" y="285.081" width="116.45" height="76.5556"/>
+    <text font-size="14.1111" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="572.575" y="301.181">
+      <tspan x="572.575" y="301.181">@0320</tspan>
+      <tspan x="572.575" y="318.819">label:espionne</tspan>
+      <tspan x="572.575" y="336.458">out:@0919</tspan>
+      <tspan x="572.575" y="354.097">in:@0013</tspan>
+    </text>
+  </g>
+</svg>

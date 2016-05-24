@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="25cm" height="9cm" viewBox="97 84 491 163" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <ellipse style="fill: #c9e0f4" cx="502.049" cy="157.597" rx="33.7211" ry="33.7211"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #5781d9" cx="502.049" cy="157.597" rx="33.7211" ry="33.7211"/>
+    <text font-size="14.6756" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="502.049" y="153.011">
+      <tspan x="502.049" y="153.011">noeud</tspan>
+      <tspan x="502.049" y="171.355">2</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #c9e0f4" cx="164.049" cy="155.871" rx="33.7211" ry="33.7211"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #5781d9" cx="164.049" cy="155.871" rx="33.7211" ry="33.7211"/>
+    <text font-size="14.6756" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="164.049" y="151.285">
+      <tspan x="164.049" y="151.285">noeud</tspan>
+      <tspan x="164.049" y="169.629">1</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #5781d9" d="M 467.668,152.825 A 1146.41,1146.41 0 0 0 208.157,150.397"/>
+    <polygon style="fill: #5781d9" points="200.7,151.199 210.075,145.107 208.152,150.356 211.198,155.044 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #5781d9" points="200.7,151.199 210.075,145.107 208.152,150.356 211.198,155.044 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="436.9" y="175.036" width="130.3" height="70.9111"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x="436.9" y="175.036" width="130.3" height="70.9111"/>
+    <text font-size="12.9822" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="437.9" y="190.086">
+      <tspan x="437.9" y="190.086">nom : OrientDB</tspan>
+      <tspan x="437.9" y="206.314">version : 2.0.2</tspan>
+      <tspan x="437.9" y="222.542">edition : Enterprise</tspan>
+      <tspan x="437.9" y="238.77">age : 5 ans</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="98.9" y="175.036" width="130.3" height="70.9111"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x="98.9" y="175.036" width="130.3" height="70.9111"/>
+    <text font-size="12.9822" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="99.9" y="190.086">
+      <tspan x="99.9" y="190.086">nom : Neo4J</tspan>
+      <tspan x="99.9" y="206.314">version : 2.1.7</tspan>
+      <tspan x="99.9" y="222.542">edition : Enterprise</tspan>
+      <tspan x="99.9" y="238.77">age : 15 ans</tspan>
+    </text>
+  </g>
+  <text font-size="14.6756" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="287.9" y="138.8">
+    <tspan x="287.9" y="138.8">RELATION1</tspan>
+  </text>
+  <g>
+    <rect style="fill: #fafafa" x="262.576" y="156.15" width="130.95" height="38.4556"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x="262.576" y="156.15" width="130.95" height="38.4556"/>
+    <text font-size="12.9822" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="263.576" y="171.2">
+      <tspan x="263.576" y="171.2">label : concurrence</tspan>
+      <tspan x="263.576" y="187.428">depuis : 2010</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #5781d9" points="535.77,157.597 556.772,157.597 556.772,99.75 502.05,99.75 502.05,114.14 "/>
+    <polygon style="fill: #5781d9" points="502.05,121.64 497.05,111.64 502.05,114.14 507.05,111.64 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #5781d9" points="502.05,121.64 497.05,111.64 502.05,114.14 507.05,111.64 "/>
+  </g>
+  <text font-size="14.6756" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="499.9" y="97.8">
+    <tspan x="499.9" y="97.8">RELATION2</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="526.9" y="108.15" width="60.15" height="18.7"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #bfbfbf" x="526.9" y="108.15" width="60.15" height="18.7"/>
+    <text font-size="10.16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="556.975" y="120.55">
+      <tspan x="556.975" y="120.55">poids:3</tspan>
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+{
+  "source": { "file": { "path": "/home/nicov/Work/ENG221/data/Limites_Communes.csv" } },
+  "extractor": { "row": {} },
+  "transformers": [
+    { "csv": {
+         "separator": ";",
+         "columnsOnFirstLine": false,
+         "skipFrom": 0,
+         "skipTo": 1,
+         "columns": [ "code_insee:Integer" , "libelle:string" , "libcom:string" , "cugt:Boolean" , "code_fantoir:Integer"]
+        }
+    },
+    { "vertex": 
+        { "class": "Commune", "skipDuplicates": true }
+        }
+  ],
+  "loader": {
+    "orientdb": {
+       "dbURL": "remote:localhost/etl1",
+       "dbType": "graph",
+       "dbUser": "root",
+       "dbPassword": "Fallout00",
+       "dbAutoCreate": true,
+       "batchCommit": 50,
+       "classes": [
+         {"name": "Commune", "extends": "V"},
+         {"name": "Voie", "extends": "V"},
+         {"name": "ORGANISE", "extends": "E"}
+       ], "indexes": [
+        {"class":"Commune", "fields":["libcom:string"], "type":"UNIQUE" }
+       ]
+    }
+  }
+}

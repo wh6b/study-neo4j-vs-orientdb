@@ -1,0 +1,41 @@
+{
+  "source": { "file": { "path": "/home/nicov/Work/ENG221/data/Voies.clean.csv" } },
+  "extractor": { "row": {} },
+  "transformers": [
+    { "csv": {
+         "separator": ";",
+         "columnsOnFirstLine": false,
+         "skipFrom": 0,
+         "skipTo": 1,
+         "columns": [ "libelle:string" , "libelle_complet:string" , "commune:string" , "code_insee:Integer" , "sti:string", "rivoli:string"]
+        }
+    },
+    { "vertex": 
+        { "class": "Voie" }
+    },
+    { "edge": { "class": "ORGANISE",
+                "joinFieldName": "commune",
+                "lookup": "Commune.libcom",
+                "direction": "in"
+            }
+        }
+  ],
+  "loader": {
+    "orientdb": {
+       "dbURL": "remote:localhost/etl1",
+       "dbType": "graph",
+       "dbUser": "root",
+       "dbPassword": "Fallout00",
+       "dbAutoCreate": true,
+       "batchCommit": 50,
+       "classes": [
+         {"name": "Commune", "extends": "V"},
+         {"name": "Voie", "extends": "V"},
+         {"name": "ORGANISE", "extends": "E"}
+       ], "indexes": [
+        {"class":"Voie", "fields":["libelle:string","commune:string"], "type":"UNIQUE" },
+        {"class":"Voie", "fields":["libelle:string"], "type":"NOTUNIQUE" }
+       ]
+    }
+  }
+}

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="42cm" height="30cm" viewBox="158 64 822 583" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="160" y="120" width="819" height="526"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #f3f3f3" x="160" y="120" width="819" height="526"/>
+  </g>
+  <g>
+    <polygon style="fill: #eb7888" points="167,146 177,136 578,136 578,573 568,583 167,583 167,146 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="167,146 177,136 578,136 578,573 568,583 167,583 167,146 "/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="167" y1="146" x2="568" y2="146"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="568" y1="146" x2="578" y2="136"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="568" y1="146" x2="568" y2="583"/>
+    <text font-size="19.7556" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="177" y="174.35">
+      <tspan x="177" y="174.35">Client       &lt;&lt;device&gt;&gt;</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="177" y1="179" x2="409.4" y2="179"/>
+  </g>
+  <g>
+    <polygon style="fill: #e0bf7c" points="599,145 609,135 965,135 965,574 955,584 599,584 599,145 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="599,145 609,135 965,135 965,574 955,584 599,584 599,145 "/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="599" y1="145" x2="955" y2="145"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="955" y1="145" x2="965" y2="135"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="955" y1="145" x2="955" y2="584"/>
+    <text font-size="19.7556" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="609" y="173.35">
+      <tspan x="609" y="173.35">Serveur     &lt;&lt;device&gt;&gt;</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="609" y1="178" x2="848.85" y2="178"/>
+  </g>
+  <g>
+    <rect style="fill: #008cc2" x="668" y="185" width="134.6" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="668" y="185" width="134.6" height="70"/>
+    <rect style="fill: #008cc2" x="648" y="199" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="648" y="199" width="40" height="14"/>
+    <rect style="fill: #008cc2" x="648" y="227" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="648" y="227" width="40" height="14"/>
+    <text font-size="16.9333" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="696" y="214.75">
+      <tspan x="696" y="214.75">Neo4J-2.1.7</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #f96730" x="666.9" y="294.6" width="162.85" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="666.9" y="294.6" width="162.85" height="70"/>
+    <rect style="fill: #f96730" x="646.9" y="308.6" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="646.9" y="308.6" width="40" height="14"/>
+    <rect style="fill: #f96730" x="646.9" y="336.6" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="646.9" y="336.6" width="40" height="14"/>
+    <text font-size="16.9333" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="694.9" y="324.35">
+      <tspan x="694.9" y="324.35">OrientDB-2.0.2</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #c79c93" x="363.9" y="207.6" width="115.05" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="363.9" y="207.6" width="115.05" height="70"/>
+    <rect style="fill: #c79c93" x="343.9" y="221.6" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="343.9" y="221.6" width="40" height="14"/>
+    <rect style="fill: #c79c93" x="343.9" y="249.6" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="343.9" y="249.6" width="40" height="14"/>
+    <text font-size="16.9333" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="391.9" y="237.35">
+      <tspan x="391.9" y="237.35">Scenario </tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #e08d7c" x="349.9" y="197.6" width="115.05" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="349.9" y="197.6" width="115.05" height="70"/>
+    <rect style="fill: #e08d7c" x="329.9" y="211.6" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="329.9" y="211.6" width="40" height="14"/>
+    <rect style="fill: #e08d7c" x="329.9" y="239.6" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="329.9" y="239.6" width="40" height="14"/>
+    <text font-size="16.9333" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="377.9" y="227.35">
+      <tspan x="377.9" y="227.35">Scenario </tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #db5539" x="331.9" y="184.6" width="118.5" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="331.9" y="184.6" width="118.5" height="70"/>
+    <rect style="fill: #db5539" x="311.9" y="198.6" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="311.9" y="198.6" width="40" height="14"/>
+    <rect style="fill: #db5539" x="311.9" y="226.6" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="311.9" y="226.6" width="40" height="14"/>
+    <text font-size="16.9333" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="359.9" y="214.35">
+      <tspan x="359.9" y="214.35">Scenarios</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffe05b" x="299.9" y="423.6" width="144.05" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="299.9" y="423.6" width="144.05" height="70"/>
+    <rect style="fill: #ffe05b" x="279.9" y="437.6" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="279.9" y="437.6" width="40" height="14"/>
+    <rect style="fill: #ffe05b" x="279.9" y="465.6" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="279.9" y="465.6" width="40" height="14"/>
+    <text font-size="16.9333" style="fill: #4482b4;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="327.9" y="453.35">
+      <tspan x="327.9" y="453.35">Python-2.7.5</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #75c0dd" x="192.9" y="309.6" width="148.45" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="192.9" y="309.6" width="148.45" height="70"/>
+    <rect style="fill: #75c0dd" x="172.9" y="323.6" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="172.9" y="323.6" width="40" height="14"/>
+    <rect style="fill: #75c0dd" x="172.9" y="351.6" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="172.9" y="351.6" width="40" height="14"/>
+    <text font-size="16.9333" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="220.9" y="339.35">
+      <tspan x="220.9" y="339.35">py2neo-2.0.5</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #f6946f" x="413.9" y="309.6" width="139.75" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="413.9" y="309.6" width="139.75" height="70"/>
+    <rect style="fill: #f6946f" x="393.9" y="323.6" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="393.9" y="323.6" width="40" height="14"/>
+    <rect style="fill: #f6946f" x="393.9" y="351.6" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="393.9" y="351.6" width="40" height="14"/>
+    <text font-size="16.9333" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="441.9" y="339.35">
+      <tspan x="441.9" y="339.35">pyorient-1.4</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="483.776" y1="379.6" x2="446.968" y2="452.613"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="448.197,439.068 445.459,455.606 457.126,443.57 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="378" y="403">{Dependency}</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="289.37" y1="380.603" x2="365.979" y2="420.503"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="352.452,419.095 368.953,422.051 357.072,410.226 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="233.116" y="408">{Dependency}</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="391.15" y1="254.6" x2="372.684" y2="416.938"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="369.145,403.806 372.305,420.269 379.081,404.937 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="343.488" y="295">{Dependency}</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="391.15" y1="254.6" x2="478.011" y2="306.177"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="464.583,304.019 480.893,307.888 469.689,295.42 "/>
+    <text font-size="12.7998" style="fill: #ffffff;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="179.5" y="76.5">{}</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="391.15" y1="254.6" x2="273.256" y2="306.882"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="282.79,297.184 270.191,308.241 286.844,306.325 "/>
+    <text font-size="12.7998" style="fill: #ffffff;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="192.869" y="91.9988">{}</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="450.4" y1="219.6" x2="642.532" y2="230.044"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="624.251,239.065 644.765,230.166 625.337,219.095 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="450.4" y1="219.6" x2="641.834" y2="305.011"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="621.537,306.905 643.876,305.922 629.686,288.641 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="802.6" y1="220" x2="852.236" y2="384.182"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="843.79,373.522 853.206,387.391 853.362,370.629 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="819" y="260">{Dependency}</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="611,454 909.6,454 921.6,466 921.6,568 611,568 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="611,454 909.6,454 921.6,466 921.6,568 611,568 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="909.6,454 909.6,466 921.6,466 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="618" y="478.9">
+      <tspan x="618" y="478.9">- Linux 64b x86_64 3.13.0-51-generic</tspan>
+      <tspan x="618" y="494.9">- AMD Phenom II X6 1090T 6 coeurs</tspan>
+      <tspan x="618" y="510.9">- 8Go RAM</tspan>
+      <tspan x="618" y="526.9">- Systeme et base sur disque SSD</tspan>
+      <tspan x="618" y="542.9">- Les 2 instances SGBD ne sont jamais </tspan>
+      <tspan x="618" y="558.9">actives en même temps.</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" x1="748.324" y1="364.6" x2="847.664" y2="389.001"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="834.189,390.839 850.92,389.8 836.575,381.128 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="682" y="385">{Dependency}</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="174.9,500.8 450.4,500.8 462.4,512.8 462.4,566.8 174.9,566.8 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="174.9,500.8 450.4,500.8 462.4,512.8 462.4,566.8 174.9,566.8 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="450.4,500.8 450.4,512.8 462.4,512.8 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="181.9" y="525.7">
+      <tspan x="181.9" y="525.7">Linux 64b x86_64 3.13.0-51-generic</tspan>
+      <tspan x="181.9" y="541.7">Intel(R) Core(TM) i5-2520M 4 coeurs</tspan>
+      <tspan x="181.9" y="557.7">4Go RAM</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #c8bab4" points="499,601 509,591 643.7,591 643.7,627 633.7,637 499,637 499,601 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="499,601 509,591 643.7,591 643.7,627 633.7,637 499,637 499,601 "/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="499" y1="601" x2="633.7" y2="601"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="633.7" y1="601" x2="643.7" y2="591"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="633.7" y1="601" x2="633.7" y2="637"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="509" y="622.9">
+      <tspan x="509" y="622.9">Switch 1Gbps</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="509" y1="625.9" x2="596.35" y2="625.9"/>
+  </g>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="367.5,583 367.5,619 499,619 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="633.7,619 777,619 777,584 "/>
+  <g>
+    <rect style="fill: #bc9b58" x="758.9" y="390.6" width="190.55" height="70.2667"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="758.9" y="390.6" width="190.55" height="70.2667"/>
+    <rect style="fill: #bc9b58" x="738.9" y="404.733" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="738.9" y="404.733" width="40" height="14"/>
+    <rect style="fill: #bc9b58" x="738.9" y="432.733" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="738.9" y="432.733" width="40" height="14"/>
+    <text font-size="14.1111" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="786.9" y="417.7">
+      <tspan x="786.9" y="417.7">OpenJDK </tspan>
+      <tspan x="786.9" y="435.339">Runtime Environment</tspan>
+      <tspan x="786.9" y="452.978">(IcedTea 2.5.5)</tspan>
+    </text>
+  </g>
+</svg>

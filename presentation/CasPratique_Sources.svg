@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="38cm" height="25cm" viewBox="160 65 746 481" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #c2dac2" x="547.42" y="314.308" width="125.5" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #2c7a2b" x="547.42" y="314.308" width="125.5" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="610.17" y="333.308">:Personne</text>
+    <rect style="fill: #c2dac2" x="547.42" y="342.308" width="125.5" height="116"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #2c7a2b" x="547.42" y="342.308" width="125.5" height="116"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="550.42" y="356.308">+nom</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="550.42" y="372.308">+prenom</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="550.42" y="388.308">+sexe: char</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="550.42" y="404.308">+age: int</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="550.42" y="420.308">+date_naissance</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="550.42" y="436.308">+activite</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="550.42" y="452.308">+salaire: int</text>
+  </g>
+  <g>
+    <rect style="fill: #ebd9ff" x="163.059" y="202.418" width="118" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #663999" x="163.059" y="202.418" width="118" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="222.059" y="221.418">:Numero</text>
+    <rect style="fill: #ebd9ff" x="163.059" y="230.418" width="118" height="102"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #663999" x="163.059" y="230.418" width="118" height="102"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="166.059" y="242.918">+no</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="166.059" y="256.918">+lib_off</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="166.059" y="270.918">+sti</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="166.059" y="284.918">+rivoli</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="166.059" y="298.918">+nrivoli</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="166.059" y="312.918">+X_WGS84: double</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="166.059" y="326.918">+Y_WGS84: double</text>
+  </g>
+  <g>
+    <rect style="fill: #bdd0d7" x="164.149" y="66.2274" width="118" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #6a94a4" x="164.149" y="66.2274" width="118" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="223.149" y="85.2274">:Voie</text>
+    <rect style="fill: #bdd0d7" x="164.149" y="94.2274" width="118" height="88"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #6a94a4" x="164.149" y="94.2274" width="118" height="88"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.149" y="106.727">+libelle</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.149" y="120.727">+libelle_complet</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.149" y="134.727">+code_insee: int</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.149" y="148.727">+sti</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.149" y="162.727">+rivoli</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.149" y="176.727">+commune</text>
+  </g>
+  <g>
+    <rect style="fill: #b6e4f6" x="520.834" y="73.3638" width="131.5" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #2c5270" x="520.834" y="73.3638" width="131.5" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="586.584" y="92.3638">:Commune</text>
+    <rect style="fill: #b6e4f6" x="520.834" y="101.364" width="131.5" height="74"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #2c5270" x="520.834" y="101.364" width="131.5" height="74"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="523.834" y="113.864">+code_insee: int</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="523.834" y="127.864">+libelle</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="523.834" y="141.864">+libcom</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="523.834" y="155.864">+cugt: boolean</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="523.834" y="169.864">+code_fantoir: int</text>
+  </g>
+  <g>
+    <polygon style="fill: #94f76a" points="728.154,306.554 748.154,306.554 748.154,316.554 758.154,316.554 758.154,346.554 728.154,346.554 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="728.154,306.554 748.154,306.554 748.154,316.554 758.154,316.554 758.154,346.554 728.154,346.554 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="728.154,306.554 748.154,306.554 748.154,316.554 758.154,316.554 758.154,346.554 728.154,346.554 "/>
+    <polygon style="fill: #94f76a" points="748.154,306.554 758.154,316.554 748.154,316.554 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="748.154,306.554 758.154,316.554 748.154,316.554 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="748.154,306.554 758.154,316.554 748.154,316.554 "/>
+    <text font-size="11.2889" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="695.154" y="362.137">
+      <tspan x="695.154" y="362.137">Nombres d'amis</tspan>
+      <tspan x="695.154" y="376.248">http://www.scienceshumaines.com/</tspan>
+      <tspan x="695.154" y="390.36">les-amis-de-mes-amis_fr_10542.html</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #90ee90" points="724.454,410.46 744.454,410.46 744.454,420.46 754.454,420.46 754.454,450.46 724.454,450.46 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="724.454,410.46 744.454,410.46 744.454,420.46 754.454,420.46 754.454,450.46 724.454,450.46 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="724.454,410.46 744.454,410.46 744.454,420.46 754.454,420.46 754.454,450.46 724.454,450.46 "/>
+    <polygon style="fill: #90ee90" points="744.454,410.46 754.454,420.46 744.454,420.46 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="744.454,410.46 754.454,420.46 744.454,420.46 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="744.454,410.46 754.454,420.46 744.454,420.46 "/>
+    <text font-size="11.2889" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="691.454" y="466.043">
+      <tspan x="691.454" y="466.043">Nombres de connaissances</tspan>
+      <tspan x="691.454" y="480.154">Nombre_de_Dunbar</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #00db0e" points="349.684,298.37 369.684,298.37 369.684,308.37 379.684,308.37 379.684,338.37 349.684,338.37 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="349.684,298.37 369.684,298.37 369.684,308.37 379.684,308.37 379.684,338.37 349.684,338.37 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="349.684,298.37 369.684,298.37 369.684,308.37 379.684,308.37 379.684,338.37 349.684,338.37 "/>
+    <polygon style="fill: #00db0e" points="369.684,298.37 379.684,308.37 369.684,308.37 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="369.684,298.37 379.684,308.37 369.684,308.37 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="369.684,298.37 379.684,308.37 369.684,308.37 "/>
+    <text font-size="11.2889" style="fill: #000000;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="412.684" y="353.953">
+      <tspan x="412.684" y="353.953">Prénoms</tspan>
+      <tspan x="412.684" y="368.064">http://opendata.paris.fr/explore/</tspan>
+      <tspan x="412.684" y="382.176">dataset/liste_des_prenoms_2004_a_2012</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #00ff76" points="508.716,230.908 528.716,230.908 528.716,240.908 538.716,240.908 538.716,270.908 508.716,270.908 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="508.716,230.908 528.716,230.908 528.716,240.908 538.716,240.908 538.716,270.908 508.716,270.908 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="508.716,230.908 528.716,230.908 528.716,240.908 538.716,240.908 538.716,270.908 508.716,270.908 "/>
+    <polygon style="fill: #00ff76" points="528.716,230.908 538.716,240.908 528.716,240.908 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="528.716,230.908 538.716,240.908 528.716,240.908 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="528.716,230.908 538.716,240.908 528.716,240.908 "/>
+    <text font-size="11.2889" style="fill: #000000;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="571.716" y="286.491">
+      <tspan x="571.716" y="286.491">Noms de famille</tspan>
+      <tspan x="571.716" y="300.602">http://www.dicollecte.org</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #02aa2c" points="656.214,222.102 676.214,222.102 676.214,232.102 686.214,232.102 686.214,262.102 656.214,262.102 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="656.214,222.102 676.214,222.102 676.214,232.102 686.214,232.102 686.214,262.102 656.214,262.102 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="656.214,222.102 676.214,222.102 676.214,232.102 686.214,232.102 686.214,262.102 656.214,262.102 "/>
+    <polygon style="fill: #02aa2c" points="676.214,222.102 686.214,232.102 676.214,232.102 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="676.214,222.102 686.214,232.102 676.214,232.102 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="676.214,222.102 686.214,232.102 676.214,232.102 "/>
+    <text font-size="11.2889" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="623.214" y="277.685">
+      <tspan x="623.214" y="277.685">Relations</tspan>
+      <tspan x="623.214" y="291.796">http://www.credoc.fr/pdf/Rech/C169.pdf</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #31da31" points="536.128,471.144 556.128,471.144 556.128,481.144 566.128,481.144 566.128,511.144 536.128,511.144 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="536.128,471.144 556.128,471.144 556.128,481.144 566.128,481.144 566.128,511.144 536.128,511.144 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="536.128,471.144 556.128,471.144 556.128,481.144 566.128,481.144 566.128,511.144 536.128,511.144 "/>
+    <polygon style="fill: #31da31" points="556.128,471.144 566.128,481.144 556.128,481.144 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="556.128,471.144 566.128,481.144 556.128,481.144 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="556.128,471.144 566.128,481.144 556.128,481.144 "/>
+    <text font-size="11.2889" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="503.128" y="526.727">
+      <tspan x="503.128" y="526.727">Emploi Total Au 31 Decembre Par Secteur d'Activite Statut Et Sexe</tspan>
+      <tspan x="503.128" y="540.838">http://www.bdm.insee.fr/bdm2/choixCriteres?codeGroupe=1467</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #77e67e" points="389.23,469.81 409.23,469.81 409.23,479.81 419.23,479.81 419.23,509.81 389.23,509.81 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="389.23,469.81 409.23,469.81 409.23,479.81 419.23,479.81 419.23,509.81 389.23,509.81 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="389.23,469.81 409.23,469.81 409.23,479.81 419.23,479.81 419.23,509.81 389.23,509.81 "/>
+    <polygon style="fill: #77e67e" points="409.23,469.81 419.23,479.81 409.23,479.81 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="409.23,469.81 419.23,479.81 409.23,479.81 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="409.23,469.81 419.23,479.81 409.23,479.81 "/>
+    <text font-size="11.2889" style="fill: #000000;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="452.23" y="525.393">
+      <tspan x="452.23" y="525.393">Salaire net en 2011 en France</tspan>
+      <tspan x="452.23" y="539.504">http://www.inegalites.fr/spip.php?article1054</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #31da31" points="339.624,392.73 359.624,392.73 359.624,402.73 369.624,402.73 369.624,432.73 339.624,432.73 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="339.624,392.73 359.624,392.73 359.624,402.73 369.624,402.73 369.624,432.73 339.624,432.73 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="339.624,392.73 359.624,392.73 359.624,402.73 369.624,402.73 369.624,432.73 339.624,432.73 "/>
+    <polygon style="fill: #31da31" points="359.624,392.73 369.624,402.73 359.624,402.73 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="359.624,392.73 369.624,402.73 359.624,402.73 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="359.624,392.73 369.624,402.73 359.624,402.73 "/>
+    <text font-size="11.2889" style="fill: #000000;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="402.624" y="448.313">
+      <tspan x="402.624" y="448.313">Age et Sexe / Pyramide des ages</tspan>
+      <tspan x="402.624" y="462.424">INSEE / France Bilan démographique 2011</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="445.508" y1="127.195" x2="510.092" y2="125.899"/>
+    <polygon style="fill: #000000" points="517.59,125.748 507.693,130.948 510.092,125.899 507.492,120.95 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="517.59,125.748 507.693,130.948 510.092,125.899 507.492,120.95 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="395.004" y1="127.195" x2="292.892" y2="125.432"/>
+    <polygon style="fill: #000000" points="285.394,125.302 295.478,120.476 292.892,125.432 295.306,130.474 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="285.394,125.302 295.478,120.476 292.892,125.432 295.306,130.474 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="547.42" y1="368.308" x2="389.088" y2="325.89"/>
+    <polygon style="fill: #000000" points="381.844,323.949 392.797,321.707 389.088,325.89 390.209,331.366 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="381.844,323.949 392.797,321.707 389.088,325.89 390.209,331.366 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="547.42" y1="384.308" x2="379.238" y2="411.193"/>
+    <polygon style="fill: #000000" points="371.832,412.377 380.917,405.861 379.238,411.193 382.496,415.736 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="371.832,412.377 380.917,405.861 379.238,411.193 382.496,415.736 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="547.42" y1="448.308" x2="428.493" y2="486.811"/>
+    <polygon style="fill: #000000" points="421.357,489.121 429.331,481.284 428.493,486.811 432.411,490.798 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="421.357,489.121 429.331,481.284 428.493,486.811 432.411,490.798 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="718.423" y1="326.863" x2="672.92" y2="328.308"/>
+    <polygon style="fill: #000000" points="725.919,326.625 716.083,331.94 718.423,326.863 715.765,321.945 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="725.919,326.625 716.083,331.94 718.423,326.863 715.765,321.945 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="715.066" y1="427.882" x2="672.92" y2="416.308"/>
+    <polygon style="fill: #000000" points="722.298,429.868 711.331,432.041 715.066,427.882 713.979,422.398 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="722.298,429.868 711.331,432.041 715.066,427.882 713.979,422.398 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 646.81,244.161 A 55.836,55.836 0 0 0 610.17,314.308"/>
+    <polygon style="fill: #000000" points="653.997,242.39 644.724,248.637 646.559,243.356 643.436,238.72 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="653.997,242.39 644.724,248.637 646.559,243.356 643.436,238.72 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 418.074,127.752 A 182.189,182.189 0 0 0 286.214,208.171"/>
+    <polygon style="fill: #000000" points="282.192,214.491 282.956,203.337 285.997,208.028 291.574,208.41 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="282.192,214.491 282.956,203.337 285.997,208.028 291.574,208.41 "/>
+  </g>
+  <g>
+    <polygon style="fill: #00b7ff" points="395.004,93.5256 428.673,93.5256 428.673,110.36 445.508,110.36 445.508,160.864 395.004,160.864 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="395.004,93.5256 428.673,93.5256 428.673,110.36 445.508,110.36 445.508,160.864 395.004,160.864 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="395.004,93.5256 428.673,93.5256 428.673,110.36 445.508,110.36 445.508,160.864 395.004,160.864 "/>
+    <polygon style="fill: #00b7ff" points="428.673,93.5256 445.508,110.36 428.673,110.36 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="428.673,93.5256 445.508,110.36 428.673,110.36 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="428.673,93.5256 445.508,110.36 428.673,110.36 "/>
+    <text font-size="11.2889" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="338.083" y="179.865">
+      <tspan x="338.083" y="179.865">Numero de rue Toulouse</tspan>
+      <tspan x="338.083" y="193.976">Filaire de voirie Toulouse Metropole</tspan>
+      <tspan x="338.083" y="208.087">Toulouse Metropole</tspan>
+      <tspan x="338.083" y="222.198">http://data.toulouse-metropole.fr</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 498.98 250.968 C 332,252 403,313 547.42,352.308"/>
+    <polygon style="fill: #000000" points="506.48,250.922 496.511,255.984 498.98,250.968 496.449,245.984 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="506.48,250.922 496.511,255.984 498.98,250.968 496.449,245.984 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 545,429 A 32.2663,32.2663 0 1 0 526.72,490.632"/>
+    <polygon style="fill: #000000" points="533.901,491.35 524.404,497.249 526.433,492.04 523.484,487.292 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="533.901,491.35 524.404,497.249 526.433,492.04 523.484,487.292 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="547.42" y1="400.308" x2="379.336" y2="412.051"/>
+    <polygon style="fill: #000000" points="371.855,412.574 381.482,406.889 379.336,412.051 382.179,416.865 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="371.855,412.574 381.482,406.889 379.336,412.051 382.179,416.865 "/>
+  </g>
+</svg>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="27cm" height="18cm" viewBox="163 65 522 356" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ebd9ff" x="562.059" y="289.418" width="118" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #663999" x="562.059" y="289.418" width="118" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="621.059" y="308.418">:Numero</text>
+    <rect style="fill: #ebd9ff" x="562.059" y="317.418" width="118" height="102"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #663999" x="562.059" y="317.418" width="118" height="102"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="565.059" y="329.918">+no</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="565.059" y="343.918">+lib_off</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="565.059" y="357.918">+sti</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="565.059" y="371.918">+rivoli</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="565.059" y="385.918">+nrivoli</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="565.059" y="399.918">+X_WGS84: double</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="565.059" y="413.918">+Y_WGS84: double</text>
+  </g>
+  <g>
+    <rect style="fill: #bdd0d7" x="164.149" y="66.2274" width="118" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #6a94a4" x="164.149" y="66.2274" width="118" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="223.149" y="85.2274">:Voie</text>
+    <rect style="fill: #bdd0d7" x="164.149" y="94.2274" width="118" height="88"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #6a94a4" x="164.149" y="94.2274" width="118" height="88"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.149" y="106.727">+libelle</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.149" y="120.727">+libelle_complet</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.149" y="134.727">+code_insee: int</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.149" y="148.727">+sti</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.149" y="162.727">+rivoli</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="167.149" y="176.727">+commune</text>
+  </g>
+  <g>
+    <rect style="fill: #b6e4f6" x="551.834" y="73.3638" width="131.5" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #2c5270" x="551.834" y="73.3638" width="131.5" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="617.584" y="92.3638">:Commune</text>
+    <rect style="fill: #b6e4f6" x="551.834" y="101.364" width="131.5" height="74"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #2c5270" x="551.834" y="101.364" width="131.5" height="74"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="554.834" y="113.864">+code_insee: int</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="554.834" y="127.864">+libelle</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="554.834" y="141.864">+libcom</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="554.834" y="155.864">+cugt: boolean</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="554.834" y="169.864">+code_fantoir: int</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="450.508" y1="124.195" x2="541.105" y2="124.287"/>
+    <polygon style="fill: #000000" points="548.605,124.294 538.6,129.284 541.105,124.287 538.61,119.284 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="548.605,124.294 538.6,129.284 541.105,124.287 538.61,119.284 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="400.004" y1="124.195" x2="292.859" y2="124.215"/>
+    <polygon style="fill: #000000" points="285.359,124.216 295.358,119.214 292.859,124.215 295.36,129.214 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="285.359,124.216 295.358,119.214 292.859,124.215 295.36,129.214 "/>
+  </g>
+  <g>
+    <polygon style="fill: #00b7ff" points="400.004,90.5256 433.673,90.5256 433.673,107.36 450.508,107.36 450.508,157.864 400.004,157.864 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="400.004,90.5256 433.673,90.5256 433.673,107.36 450.508,107.36 450.508,157.864 400.004,157.864 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="400.004,90.5256 433.673,90.5256 433.673,107.36 450.508,107.36 450.508,157.864 400.004,157.864 "/>
+    <polygon style="fill: #00b7ff" points="433.673,90.5256 450.508,107.36 433.673,107.36 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="433.673,90.5256 450.508,107.36 433.673,107.36 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="433.673,90.5256 450.508,107.36 433.673,107.36 "/>
+    <text font-size="11.2889" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="343.083" y="176.865">
+      <tspan x="343.083" y="176.865">Filaire de voirie Toulouse Metropole</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="314.822" y1="360.884" x2="551.317" y2="355.89"/>
+    <polygon style="fill: #000000" points="558.815,355.732 548.923,360.942 551.317,355.89 548.712,350.944 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="558.815,355.732 548.923,360.942 551.317,355.89 548.712,350.944 "/>
+  </g>
+  <g>
+    <polygon style="fill: #00b7ff" points="314.822,327.214 348.491,327.214 348.491,344.049 365.326,344.049 365.326,394.553 314.822,394.553 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="314.822,327.214 348.491,327.214 348.491,344.049 365.326,344.049 365.326,394.553 314.822,394.553 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="314.822,327.214 348.491,327.214 348.491,344.049 365.326,344.049 365.326,394.553 314.822,394.553 "/>
+    <polygon style="fill: #00b7ff" points="348.491,327.214 365.326,344.049 348.491,344.049 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="348.491,327.214 365.326,344.049 348.491,344.049 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="348.491,327.214 365.326,344.049 348.491,344.049 "/>
+    <text font-size="11.2889" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="257.901" y="413.553">
+      <tspan x="257.901" y="413.553">Numéros de rues Toulouse</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #008cc2" cx="525.92" cy="230.615" rx="37.7325" ry="37.7325"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #207596" cx="525.92" cy="230.615" rx="37.7325" ry="37.7325"/>
+    <text font-size="12.8" style="fill: #ffffff;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="525.92" y="234.614">
+      <tspan x="525.92" y="234.614">37</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #4482b4" cx="342.016" cy="243.984" rx="31.5" ry="31.5"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #2c5270" cx="342.016" cy="243.984" rx="31.5" ry="31.5"/>
+    <text font-size="12.8" style="fill: #ffffff;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="342.016" y="247.984">
+      <tspan x="342.016" y="247.984">9646</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #9979bc" cx="448.512" cy="321.072" rx="24.3992" ry="24.3992"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #663999" cx="448.512" cy="321.072" rx="24.3992" ry="24.3992"/>
+    <text font-size="12.8" style="fill: #ffffff;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="448.512" y="325.072">
+      <tspan x="448.512" y="325.072">65832</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #008cc2" x1="487.297" y1="233.422" x2="384.098" y2="240.925"/>
+    <polygon style="fill: #008cc2" points="376.618,241.468 386.229,235.757 384.098,240.925 386.954,245.73 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #008cc2" points="376.618,241.468 386.229,235.757 384.098,240.925 386.954,245.73 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #2c5270" x1="368.341" y1="263.04" x2="420.053" y2="300.472"/>
+    <polygon style="fill: #2c5270" points="426.129,304.87 415.096,303.056 420.053,300.472 420.96,294.956 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #2c5270" points="426.129,304.87 415.096,303.056 420.053,300.472 420.96,294.956 "/>
+  </g>
+  <text font-size="14.6756" style="fill: #008cc2;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="393" y="224">
+    <tspan x="393" y="224">ORGANISE</tspan>
+  </text>
+  <text font-size="14.6756" style="fill: #2c5270;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="313.658" y="300.31">
+    <tspan x="313.658" y="300.31">COMPORTE</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #808080" x1="561.061" y1="342.823" x2="473.114" y2="325.827"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #808080" x1="282.15" y1="159.227" x2="323.271" y2="217.446"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #808080" x1="551.834" y1="166.364" x2="540.402" y2="194.709"/>
+</svg>

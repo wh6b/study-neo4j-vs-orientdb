@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="42cm" height="10cm" viewBox="47 125 831 187" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #e5e5e5" x="185.749" y="267.717" width="44.6" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="185.749" y="267.717" width="44.6" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="208.049" y="286.717">  V  </text>
+    <rect style="fill: #e5e5e5" x="185.749" y="295.717" width="44.6" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="185.749" y="295.717" width="44.6" height="8"/>
+    <rect style="fill: #e5e5e5" x="185.749" y="303.717" width="44.6" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="185.749" y="303.717" width="44.6" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #f1ea92" x="48.8556" y="185.544" width="88.55" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="48.8556" y="185.544" width="88.55" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="93.1306" y="204.544">Auditeur</text>
+    <rect style="fill: #f1ea92" x="48.8556" y="213.544" width="88.55" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="48.8556" y="213.544" width="88.55" height="68"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="51.8556" y="227.544">+INE</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="51.8556" y="243.544">+nom</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="51.8556" y="259.544">+prenom</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="51.8556" y="275.544">+adresese</text>
+    <rect style="fill: #f1ea92" x="48.8556" y="281.544" width="88.55" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="48.8556" y="281.544" width="88.55" height="8"/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="174.217,165.129 184.217,155.129 326.921,155.129 326.921,191.129 316.921,201.129 174.217,201.129 174.217,165.129 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="174.217,165.129 184.217,155.129 326.921,155.129 326.921,191.129 316.921,201.129 174.217,201.129 174.217,165.129 "/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="174.217" y1="165.129" x2="316.921" y2="165.129"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="316.921" y1="165.129" x2="326.921" y2="155.129"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="316.921" y1="165.129" x2="316.921" y2="201.129"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="184.217" y="187.029">
+      <tspan x="184.217" y="187.029">Toulouse:OrientDB</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="184.217" y1="190.029" x2="304.867" y2="190.029"/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="373.594,164.811 383.594,154.811 497.444,154.811 497.444,190.811 487.444,200.811 373.594,200.811 373.594,164.811 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="373.594,164.811 383.594,154.811 497.444,154.811 497.444,190.811 487.444,200.811 373.594,200.811 373.594,164.811 "/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="373.594" y1="164.811" x2="487.444" y2="164.811"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="487.444" y1="164.811" x2="497.444" y2="154.811"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="487.444" y1="164.811" x2="487.444" y2="200.811"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="383.594" y="186.711">
+      <tspan x="383.594" y="186.711">Paris:OrientDB</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="383.594" y1="189.711" x2="477.444" y2="189.711"/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="540.776,164.9 550.776,154.9 692.576,154.9 692.576,190.9 682.576,200.9 540.776,200.9 540.776,164.9 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="540.776,164.9 550.776,154.9 692.576,154.9 692.576,190.9 682.576,200.9 540.776,200.9 540.776,164.9 "/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="540.776" y1="164.9" x2="682.576" y2="164.9"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="682.576" y1="164.9" x2="692.576" y2="154.9"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="682.576" y1="164.9" x2="682.576" y2="200.9"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="550.776" y="186.8">
+      <tspan x="550.776" y="186.8">Pantin:OrientDB</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="550.776" y1="189.8" x2="653.926" y2="189.8"/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="730.018,164.9 740.018,154.9 872.318,154.9 872.318,190.9 862.318,200.9 730.018,200.9 730.018,164.9 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="730.018,164.9 740.018,154.9 872.318,154.9 872.318,190.9 862.318,200.9 730.018,200.9 730.018,164.9 "/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="730.018" y1="164.9" x2="862.318" y2="164.9"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="862.318" y1="164.9" x2="872.318" y2="154.9"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="862.318" y1="164.9" x2="862.318" y2="200.9"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="740.018" y="186.8">
+      <tspan x="740.018" y="186.8">Guyane:OrientDB</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="740.018" y1="189.8" x2="852.318" y2="189.8"/>
+  </g>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="245.569,165.129 245.569,143.9 611.676,143.9 611.676,164.9 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="430.519,164.811 430.519,143.811 796.168,143.811 796.168,164.9 "/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="796.168" y1="200.9" x2="796.056" y2="267.506"/>
+  <g>
+    <rect style="fill: #56d4ff" x="714.182" y="267.506" width="163.75" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="714.182" y="267.506" width="163.75" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="796.057" y="281.506">auditeur_guyane:cluster</text>
+    <rect style="fill: #56d4ff" x="714.182" y="285.506" width="163.75" height="4"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="714.182" y="285.506" width="163.75" height="4"/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="611.676" y1="200.9" x2="611.906" y2="267.068"/>
+  <g>
+    <rect style="fill: #fffcd8" x="537.432" y="238.538" width="148.95" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="537.432" y="238.538" width="148.95" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="611.907" y="252.538">auditeur_paris:cluster</text>
+    <rect style="fill: #fffcd8" x="537.432" y="256.538" width="148.95" height="4"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="537.432" y="256.538" width="148.95" height="4"/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="430.52" y1="200.81" x2="430.158" y2="266.892"/>
+  <g>
+    <rect style="fill: #ffdfdf" x="344.018" y="210.72" width="172.15" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="344.018" y="210.72" width="172.15" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="430.093" y="224.72">auditeur_toulouse:cluster</text>
+    <rect style="fill: #ffdfdf" x="344.018" y="228.72" width="172.15" height="4"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="344.018" y="228.72" width="172.15" height="4"/>
+  </g>
+  <g>
+    <rect style="fill: #ffff56" x="355.618" y="238.538" width="148.95" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="355.618" y="238.538" width="148.95" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="430.093" y="252.538">auditeur_paris:cluster</text>
+    <rect style="fill: #ffff56" x="355.618" y="256.538" width="148.95" height="4"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="355.618" y="256.538" width="148.95" height="4"/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="245.82" y1="238.249" x2="245.568" y2="201.128"/>
+  <g>
+    <rect style="fill: #ff9292" x="160.132" y="207.452" width="172.15" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="160.132" y="207.452" width="172.15" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="246.207" y="221.452">auditeur_toulouse:cluster</text>
+    <rect style="fill: #ff9292" x="160.132" y="225.452" width="172.15" height="4"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="160.132" y="225.452" width="172.15" height="4"/>
+  </g>
+  <g>
+    <rect style="fill: #fffcd8" x="721.418" y="238.608" width="148.95" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="721.418" y="238.608" width="148.95" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="795.893" y="252.608">auditeur_paris:cluster</text>
+    <rect style="fill: #fffcd8" x="721.418" y="256.608" width="148.95" height="4"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="721.418" y="256.608" width="148.95" height="4"/>
+  </g>
+  <g>
+    <rect style="fill: #dbf7ff" x="530.016" y="267.36" width="163.75" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="530.016" y="267.36" width="163.75" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="611.891" y="281.36">auditeur_guyane:cluster</text>
+    <rect style="fill: #dbf7ff" x="530.016" y="285.36" width="163.75" height="4"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="530.016" y="285.36" width="163.75" height="4"/>
+  </g>
+  <g>
+    <polygon style="fill: #e5e5e5" points="48.5276,126.867 177.728,126.867 189.728,138.867 189.728,160.867 48.5276,160.867 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="48.5276,126.867 177.728,126.867 189.728,138.867 189.728,160.867 48.5276,160.867 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="177.728,126.867 177.728,138.867 189.728,138.867 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="55.5276" y="151.767">
+      <tspan x="55.5276" y="151.767">Queues HazelCast</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="189.728,143.867 213.601,143.867 213.601,144.452 238.769,144.452 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="226.121,149.452 242.121,144.452 226.121,139.452 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffdfdf" x="525.666" y="210.41" width="172.15" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="525.666" y="210.41" width="172.15" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="611.741" y="224.41">auditeur_toulouse:cluster</text>
+    <rect style="fill: #ffdfdf" x="525.666" y="228.41" width="172.15" height="4"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="525.666" y="228.41" width="172.15" height="4"/>
+  </g>
+  <g>
+    <rect style="fill: #3dfb57" x="342.682" y="266.892" width="174.95" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="342.682" y="266.892" width="174.95" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="430.157" y="280.892">auditeur_bretagne:cluster</text>
+    <rect style="fill: #3dfb57" x="342.682" y="284.892" width="174.95" height="4"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="342.682" y="284.892" width="174.95" height="4"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="167.513,281.717 161.081,281.717 161.081,271.544 137.406,271.544 "/>
+    <polygon style="fill: #ffffff" points="167.513,289.717 183.513,281.717 167.513,273.717 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="167.513,289.717 183.513,281.717 167.513,273.717 "/>
+  </g>
+  <g>
+    <rect style="fill: #fffcd8" x="171.345" y="238.249" width="148.95" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="171.345" y="238.249" width="148.95" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="245.82" y="252.249">auditeur_paris:cluster</text>
+    <rect style="fill: #fffcd8" x="171.345" y="256.249" width="148.95" height="4"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="171.345" y="256.249" width="148.95" height="4"/>
+  </g>
+</svg>
