@@ -14,4 +14,6 @@ I apologize in advance, but I do not remember exactly but I had few months to do
 Nicolas
 
 
-<img src="https://raw.githubusercontent.com/wh6b/study-neo4j-vs-orientdb/master/presentation/Fin.svg">
+<img width="500" src="https://cdn.rawgit.com/wh6b/study-neo4j-vs-orientdb/master/presentation/CasPratique_Scenario02.svg">
+
+<img src="https://cdn.rawgit.com/wh6b/study-neo4j-vs-orientdb/master/presentation/Fin.svg">
